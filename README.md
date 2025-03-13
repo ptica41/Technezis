@@ -24,7 +24,7 @@
 
 ### Деплой проекта
 1. Необходим установленный git и Docker на ОС
-2. Склонируйте репозиторий
+2. Склонируйте репозиторий в нужную папку
 ```commandline
 git clone https://github.com/ptica41/Technezis.git
 ```
